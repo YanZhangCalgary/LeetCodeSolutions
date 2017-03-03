@@ -1,0 +1,6 @@
+C:\Projects\Learning\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Projects\Learning\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Projects\Learning\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Projects\Learning\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Projects\Learning\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
+C:\Projects\Learning\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
